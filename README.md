@@ -30,7 +30,7 @@ This project demonstrates the integration of **Artificial Intelligence, Speech R
 - PyWhatKit  
 - Webbrowser  
 - OS Module  
-- AI APIs (OpenAI / Groq)
+- AI APIs (OpenAI / Groq)...
 
 ---
 
